@@ -31,12 +31,12 @@ I am a **software developer** specializing in:
 
 ## 📫 Contact Me
 
-Email: asnakemuluit@gmail.com  
-LinkedIn: [linkedin.com/in/asnake-mulu-089953194](https://linkedin.com/in/asnake-mulu-089953194)  
-Telegram: [t.me/AsnakeM](https://t.me/AsnakeM)
-Youtube: [youtube.com/@AsnakeMulu](https://www.youtube.com/@AsnakeMulu)
-Tiktok: [tiktok.com/@asnakemulu27](https://www.tiktok.com/@asnakemulu27)
-Tiktok: [facebook.com/profile.php?id=100093147865337](https://facebook.com/profile.php?id=100093147865337)
-Twitter or X: [x.com/asnakemulu](https://x.com/AsnakeMulu7)
+**Email:** asnakemuluit@gmail.com  
+**LinkedIn:** [linkedin.com/in/asnake-mulu-089953194](https://linkedin.com/in/asnake-mulu-089953194)  
+**Telegram:** [t.me/AsnakeM](https://t.me/AsnakeM)  
+**Youtube:** [youtube.com/@AsnakeMulu](https://www.youtube.com/@AsnakeMulu) 
+**Tiktok:** [tiktok.com/@asnakemulu27](https://www.tiktok.com/@asnakemulu27)    
+**Facebook:** [facebook.com/profile.php?id=100093147865337](https://facebook.com/profile.php?id=100093147865337)  
+**Twitter or X:** [x.com/asnakemulu](https://x.com/AsnakeMulu7) 
 
 Feel free to explore my website and reach out! ✨
