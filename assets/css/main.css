@@ -66,6 +66,29 @@ body {
   font-family: var(--default-font);
 }
 
+#message-box {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 15px;
+  color: #fff;
+  border-radius: 5px;
+  display: none;
+  font-size: 16px;
+  min-width: 250px;
+  text-align: center;
+}
+
+.success {
+  background-color: #4CAF50;
+}
+
+/* Green */
+.error {
+  background-color: #F44336;
+}
+
+/* Red */
 a {
   color: var(--accent-color);
   text-decoration: none;
